@@ -61,6 +61,13 @@
     margin-bottom: 30px;
 }
 .container{
-    border: 1px solid black;
-    max-width: 1080px;
+    max-width: 1300px;
+}
+.bb{
+    height: 50px;
+    background-color: cornflowerblue;
+    color: white;
+}
+.im-2{
+    width: 95%;
 }
