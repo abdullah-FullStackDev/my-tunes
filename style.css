@@ -16,9 +16,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-color: #45484B;
     height: 100vh;
     width: 100%;
     z-index: 1;
     color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.pp{
+    padding-top: 200px;
+}
+.fz{
+    font-size: 25px;
 }
