@@ -49,5 +49,9 @@
 }
 .b{
     background-color: red;
-    height: 30px;
+    height: 60px;
+    color: white;
+}
+.im{
+    width: 100%;
 }
