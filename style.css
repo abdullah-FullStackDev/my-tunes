@@ -51,7 +51,16 @@
     background-color: red;
     height: 60px;
     color: white;
+    margin-bottom: 20px;
 }
 .im{
     width: 100%;
+}
+.mt{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.container{
+    border: 1px solid black;
+    max-width: 1080px;
 }
