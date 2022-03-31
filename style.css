@@ -32,3 +32,22 @@
 .fz-2{
     font-size: 2.5rem;
 }
+.par{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.d-flex{
+    display: flex;
+}
+.m-auto{
+    margin: auto;
+}
+.fz-3{
+    font-size: 20px;
+}
+.b{
+    background-color: red;
+    height: 30px;
+}
