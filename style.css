@@ -1,0 +1,7 @@
+#header{
+    position: fixed;
+    display: flex;
+    color: white;
+    background-color: #333;
+    width: 100%;
+}
