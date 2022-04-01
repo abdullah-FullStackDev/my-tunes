@@ -70,4 +70,17 @@
 }
 .im-2{
     width: 95%;
+    margin-bottom: 30px;
+}
+.in{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+    z-index: 1;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
