@@ -118,3 +118,6 @@ body{
     max-width: 1000px;
     border: 1px solid blue;
 }
+.fz-5{
+    font-size: 10px;
+}
