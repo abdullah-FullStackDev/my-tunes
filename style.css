@@ -4,6 +4,10 @@
     background-color: #333;
     width: 100%;
 }
+body{
+    overflow-x: hidden;
+    margin-bottom: 0;
+}
 #li{
     display: flex;
     list-style: none;
@@ -93,6 +97,16 @@
     max-width: 500px;
 }
 .container-4{
-    max-width: 800px;
-    border: 1px solid black;
+    max-width: 1000px;
+}
+.fz-4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.tl{
+    text-align: left;
+}
+#footer{
+    background-color: #333;
+
 }
