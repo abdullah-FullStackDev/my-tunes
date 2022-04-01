@@ -84,3 +84,8 @@
     padding-left: 20px;
     padding-right: 20px;
 }
+.container-2{
+    max-width: 1080px;
+    padding-top: 30px;
+    border: 1px solid black;
+}
